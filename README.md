@@ -1,2 +1,2 @@
-<h1>YBI_Foundation</h1>
+<h1>YBI_Foundation_Internship</h1>
 YBI Projects
